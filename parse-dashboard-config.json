@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://gaucholife.herokuapp.com/parse",
+      "appId": "wnZKHTwacIEEBLC7XlzrVDOoKvnEbnNkDZD0liCN",
+      "masterKey": "LbmaMky6bQqjB1vrpGTYuAXSl1Cw1hfVDtziFAke",
+      "appName": "gaucholife"
+    }
+  ]
+}
